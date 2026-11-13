@@ -1,0 +1,6 @@
+{
+  "name": "SproutEng",
+  "description": "요일별 영어 문법·영작·회화 학습, 실시간 AI 문장 교정, 망각곡선 퀴즈 복습, 식물 성장 레벨 시스템을 갖춘 모바일 영어 학습 앱",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
